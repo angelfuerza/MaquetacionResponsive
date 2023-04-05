@@ -1,6 +1,6 @@
 # MaquetacionResponsive
 
-Este proyecto se trata del diseño del front de una página web completamente responsive haciendo uso únicamente de CSS básico, 
+Este proyecto se trata del diseño del front de una página web completamente responsive haciendo uso únicamente de media queries de CSS básico, 
 para dar estilos y dinamismo a la página.
 
 La página web simula a una página educativa para la realización de cursos online de desarrollo web.
